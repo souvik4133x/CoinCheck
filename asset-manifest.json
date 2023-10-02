@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/CoinCheck/static/js/main.ad1a758f.js",
+    "static/media/btc.jpg": "/CoinCheck/static/media/btc.ba440840459226c49293.jpg",
+    "static/media/myimage.jpeg": "/CoinCheck/static/media/myimage.3d32a4aaf19898a25a06.jpeg",
+    "index.html": "/CoinCheck/index.html",
+    "main.ad1a758f.js.map": "/CoinCheck/static/js/main.ad1a758f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ad1a758f.js"
+  ]
+}
